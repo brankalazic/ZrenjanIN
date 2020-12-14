@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ZrenjanIN</string>
+    <string name="logo_name">ZrenjanIN</string>
+    <string name="slogan_name">Poseti Zrenjanin</string>
+    <string name="powered_by">Powered by: Branka Lazić 2017200363</string>
+
+    <string name="first_slide_title">Pronađi sve što te interesuje</string>
+    <string name="second_slide_title">Poseti zanimljiva mesta</string>
+    <string name="third_slide_title">Dođi do željene lokacije</string>
+    <string name="fourth_slide_title">Sedi i uživaj</string>
+
+    <string name="first_slide_desc">Ovde možeš pronaći sve što te interesuje, od hotela, restorana do najbliže ambulante.</string>
+    <string name="second_slide_desc">Izdvajamo ti najposećenija i najzanimljivija mesta u našem gradu.</string>
+    <string name="third_slide_desc">Ne možeš da pronađeš mesto? Mi ćemo ti pomoći!</string>
+    <string name="fourth_slide_desc">Na tebi je samo da uključiš aplikaciju, a ostalo je na nama da odradimo za tebe.</string>
+
+    <string name="skip_btn">Preskoči</string>
+    <string name="next_btn_btn">Sledeće</string>
+    <string name="let_get_started">Počnimo</string>
+
+    <string name="hotels">Hoteli</string>
+    <string name="restaurants">Restorani</string>
+    <string name="cafes">Kafići</string>
+    <string name="banks">Banke</string>
+    <string name="hospitals">Bolnice</string>
+
+    <string name="featured_locations">Istaknute Lokacije</string>
+    <string name="featured_locations_description">
+        Sve istaknute lokacije ispunjavaju najviše zahteve!
+    </string>
+    <string name="most_viewed_locations">Najposećenije</string>
+    <string name="categories">Kategorije</string>
+    <string name="view_all">Prikaži Sve</string>
+    <string name="search_text">Pretraži...</string>
+
+    <!--MENU-->
+    <string name="home">POČETNA</string>
+    <string name="search">PRETRAGA</string>
+    <string name="categories1">KATEGORIJE</string>
+    <string name="map">MAPA</string>
+    <string name="user">PROFIL</string>
+
+    <string name="expand_all">Prikaži sve</string>
+
+    <style name="car_rent">Car Rent</style>
+
+    <string name="title_activity_maps">Map</string>
+
+</resources>
